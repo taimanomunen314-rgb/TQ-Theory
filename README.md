@@ -26,4 +26,10 @@ The project is currently under active development.
 
 ---
 
+---
+
+## License
+
+This project is released under the **MIT License**.
+
 このREADMEは暫定版で、フォルダを作成しながら順次更新していきます。
