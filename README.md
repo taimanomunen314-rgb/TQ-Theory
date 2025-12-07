@@ -1,22 +1,27 @@
 # Nex Engine
 
-Nex Engine is an experimental foundation project designed to support future
-web applications, automation tools, and modular software systems.
-This repository is currently in its initial setup phase, and components
-will be added progressively as development advances.
+**Nex Engine** is an experimental modular software framework designed for the next generation of web services, automation tools, and system-level integration.
+
+This repository currently contains the initial project structure.  
+Additional components will be added as development progresses.
+
+---
 
 ## Project Overview
+
 Nex Engine aims to provide:
-- A clean and extensible project structure  
-- Lightweight modules for future web and system development  
-- A flexible base that can evolve as new requirements emerge  
 
-## Status
-The project is in the preparation stage.  
-Folders, modules, and documentation will be added step-by-step.
+- A clean and scalable project foundation  
+- A modular architecture suitable for future web and cloud systems  
+- A basis for building tools, automation pipelines, and integration modules  
 
-## License
-This project is released under the MIT License.
+The project is currently under active development.
+
+---
+
+## Directory Structure
+
+
 
 
 ---
