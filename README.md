@@ -1,6 +1,13 @@
 # Nex Engine
 
 **Nex Engine** is an experimental modular software framework designed for the next generation of web services, automation tools, and system-level integration.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17851303.svg)]
+(https://doi.org/10.5281/zenodo.17851303)
+
+
+
+This repository currently contains the initial project structure.
+
 
 This repository currently contains the initial project structure.  
 Additional components will be added as development progresses.
